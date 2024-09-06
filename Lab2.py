@@ -74,7 +74,7 @@ Ryder Held
 This program continues from the previous by taking a humans age and translates it into a horses age. This includes years, months, and days.
 '''
 #Basic Pythoid info
-days_per_month = float(30)
+days_per_month = int(30)
 days_per_year = int(360)
 months = int(12)
 years = int(1)
